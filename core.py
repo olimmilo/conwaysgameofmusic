@@ -1,2 +1,3 @@
-print "Hello World"
-	if not
+width=10
+hieght=10
+print width
